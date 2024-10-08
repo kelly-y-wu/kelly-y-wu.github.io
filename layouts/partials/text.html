@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <div class="teaching-page">
+    <h1>{{ .Title }}</h1>
+    <div class="teaching-content">
+      {{ .Content }}
+    </div>
+    {{ range .Pages }}
+      <div class="course-entry">
+        <h2>{{ .Title }}</h2>
+        <p>{{ .Params.date }}</p>
+        <p>{{ .Summary }}</p>
+      </div>
+    {{ end }}
+  </div>
+{{ end }}
+
