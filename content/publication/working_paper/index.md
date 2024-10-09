@@ -24,6 +24,7 @@ summary: The welfare of fishing communities along the U.S. West Coast is increas
 tags:
 - Work in Progress
 title: Spatial, temporal, and cross-fishery spillovers in the U.S. West Coast Dungeness Crab Fishery
+working_paper: true
 url_pdf: ""
 url_slides: ""
 ---

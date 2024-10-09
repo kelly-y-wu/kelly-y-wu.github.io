@@ -5,17 +5,14 @@ design:
 sections:
 - block: resume-biography-3
   content:
-    button:
-      text: CV
-      url: uploads/resume.pdf
     text: ""
     username: admin
   design:
-    ccs_style: "color: black"
+    css_style: "color: black"
     background:
-      color: #system
+      color: system
       image:
-        filename: foggy-forest-adobe-stock.svg #stacked-peaks.svg
+        filename: foggy-forest-adobe-stock.svg
         filters:
           brightness: 1.2
         parallax: true
