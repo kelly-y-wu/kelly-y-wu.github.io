@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching | Kelly Wu</title>
+    <title>  | Kelly Wu</title>
     <link>http://localhost:4321/teaching/</link>
       <atom:link href="http://localhost:4321/teaching/index.xml" rel="self" type="application/rss+xml" />
-    <description>Teaching</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <description> </description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
-      <title>Teaching</title>
+      <title> </title>
       <link>http://localhost:4321/teaching/</link>
     </image>
     
@@ -26,6 +26,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/teaching/_index_copy/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:4321/teaching/_index_copy2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/teaching/_index_copy2/</guid>
+      <description>&lt;h1 id=&#34;teaching&#34;&gt;Teaching&lt;/h1&gt;
+&lt;p&gt;Below are some of the courses I have taught.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ARE 100B (Intermediate Microeconomics)&lt;/strong&gt;: 2021&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ARE 115 (Economics of Development)&lt;/strong&gt;: 2019, 2021, 2022&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

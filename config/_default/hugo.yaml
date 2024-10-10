@@ -62,8 +62,8 @@ menu:
       url: /about/
       weight: 1
     - identifier: cv
-      name: CV
-      url: https://drive.google.com/file/d/1fxVCpgOyKYw_CSr6SiVwOD2iNkCBXKIQ/view?usp=sharing  # URL path to your uploaded CV file
+      name: "CV"
+      url: "/cv/"  # URL path to your uploaded CV file
       weight: 2
     - identifier: research
       name: Research

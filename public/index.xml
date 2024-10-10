@@ -55,6 +55,17 @@
     </item>
     
     <item>
+      <title> </title>
+      <link>http://localhost:4321/cv/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/cv/</guid>
+      <description>&lt;p&gt;
+&lt;/p&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1fxVCpgOyKYw_CSr6SiVwOD2iNkCBXKIQ/preview&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>http://localhost:4321/publication/journal-article/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
@@ -339,7 +350,7 @@
 
 
 
-&lt;div id=&#34;chart-248579613&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-631945278&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -357,7 +368,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-248579613&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-631945278&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -818,6 +829,20 @@ Parallel 4   :         des6, after des4, 1d
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/teaching/_index_copy/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:4321/teaching/_index_copy2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/teaching/_index_copy2/</guid>
+      <description>&lt;h1 id=&#34;teaching&#34;&gt;Teaching&lt;/h1&gt;
+&lt;p&gt;Below are some of the courses I have taught.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ARE 100B (Intermediate Microeconomics)&lt;/strong&gt;: 2021&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ARE 115 (Economics of Development)&lt;/strong&gt;: 2019, 2021, 2022&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

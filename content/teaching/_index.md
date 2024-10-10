@@ -1,13 +1,13 @@
 ---
-title: Teaching
-summary: A list of my teaching experiences.
-type: landing
-layout: single  # Keep this layout simple
+title: " "
+date: 2024-10-09
+draft: false
 ---
 
-# Teaching
+<div style="margin-left: 40px;">
 
-Below are some of the courses I have taught.
+**Teaching Assistant, UC Davis**<br><br>
+- ARE 100B Intermediate Microeconomics (2020, 2021)
+- ARE 115A Economic Development (2019, 2021, 2022)
 
-- **ARE 100B (Intermediate Microeconomics)**: 2021
-- **ARE 115 (Economics of Development)**: 2019, 2021, 2022
+</div>
