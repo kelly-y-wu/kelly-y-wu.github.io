@@ -22,6 +22,10 @@
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:4321/teaching/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:4321/tags/job-market-paper/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -154,10 +158,10 @@
     <loc>http://localhost:4321/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/teaching/</loc>
+    <loc>http://localhost:4321/teaching/_index_copy/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/teaching/_index_copy/</loc>
+    <loc>http://localhost:4321/teaching/_index_copy2/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/working-paper/</loc>
