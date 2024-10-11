@@ -61,7 +61,7 @@
       <guid>http://localhost:4321/cv/</guid>
       <description>&lt;p&gt;
 &lt;/p&gt;
-&lt;iframe src=&#34;https://drive.google.com/file/d/1fxVCpgOyKYw_CSr6SiVwOD2iNkCBXKIQ/preview&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1fxVCpgOyKYw_CSr6SiVwOD2iNkCBXKIQ/preview&#34; width=&#34;640&#34; height=&#34;480&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
@@ -350,7 +350,7 @@
 
 
 
-&lt;div id=&#34;chart-962813754&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-794152368&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -368,7 +368,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-962813754&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-794152368&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
