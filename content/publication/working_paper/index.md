@@ -28,4 +28,3 @@ working_paper: true
 url_pdf: ""
 url_slides: ""
 ---
-

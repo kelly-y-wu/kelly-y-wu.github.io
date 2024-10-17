@@ -10,9 +10,9 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-links:
-- name: Slides
-  url: http://example.org
+#links:
+#- name: Slides
+#  url: ""
 projects:
 - internal-project
 publication: ""
@@ -24,7 +24,7 @@ tags:
 - Job Market Paper
 title: "Tropical forest conservation and fires: Evidence from Indonesia"
 job_market_paper: true  # This helps Hugo recognize the new taxonomy
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: "" # link to my paper
 url_slides: ""
 ---
 
