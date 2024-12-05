@@ -7,7 +7,7 @@ sections:
   content:
     button:
       text: CV
-      url: uploads/CV_Oct2024.pdf
+      url: https://www.dropbox.com/scl/fi/twcpj2iompgmppr05od7r/CV_Dec.pdf?rlkey=03d7nkw3rm25q2fj29nd6kwxn&st=s349esax&dl=0 #uploads/CV_Dec.pdf
     text: ""
     username: admin
   design:
