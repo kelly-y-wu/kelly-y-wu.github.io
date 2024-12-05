@@ -28,4 +28,4 @@ url_pdf: "" # link to my paper
 url_slides: ""
 ---
 
-\[[Draft](https://drive.google.com/file/d/1L_CnNfS6ZGm37IAtHBqbF3cYLnlH48ye/view?usp=sharing)\] is available here
+[Draft](https://drive.google.com/file/d/1L_CnNfS6ZGm37IAtHBqbF3cYLnlH48ye/view?usp=sharing) is available here
