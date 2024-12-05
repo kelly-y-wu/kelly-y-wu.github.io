@@ -11,8 +11,8 @@ image:
   focal_point: ""
   preview_only: false
 #links:
-- name: PDF
-  url: "https://www.dropbox.com/scl/fi/f6ky005xhkhen8e7140zr/JMP_IndonesiaFire_KW.pdf?rlkey=8yj0z0ti2sbkbcejlab68ieuf&st=0leiysol&dl=0"
+#- name: PDF
+#  url: "https://www.dropbox.com/scl/fi/f6ky005xhkhen8e7140zr/JMP_IndonesiaFire_KW.pdf?rlkey=8yj0z0ti2sbkbcejlab68ieuf&st=0leiysol&dl=0"
 projects:
 - internal-project
 publication: ""
@@ -24,7 +24,7 @@ tags:
 - Job Market Paper
 title: "Tropical forest conservation and fires: Evidence from Indonesia"
 job_market_paper: true  # This helps Hugo recognize the new taxonomy
-url_pdf: "" # link to my paper
+url_pdf: "https://www.dropbox.com/scl/fi/f6ky005xhkhen8e7140zr/JMP_IndonesiaFire_KW.pdf?rlkey=8yj0z0ti2sbkbcejlab68ieuf&st=0leiysol&dl=0" # link to my paper
 url_slides: ""
 ---
 
