@@ -28,4 +28,5 @@ url_pdf: "" # link to my paper
 url_slides: ""
 ---
 
-[Draft](https://drive.google.com/file/d/1L_CnNfS6ZGm37IAtHBqbF3cYLnlH48ye/view?usp=sharing) is available here
+[Draft](https://www.dropbox.com/scl/fi/f6ky005xhkhen8e7140zr/JMP_IndonesiaFire_KW.pdf?rlkey=8yj0z0ti2sbkbcejlab68ieuf&st=0leiysol&dl=0) is available here  
+  
